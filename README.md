@@ -7,7 +7,7 @@ This is the official repository for STAMP, a unified transformer-based trajector
 STAMP achieves competitive performance on the Argoverse 2 and Argoverse 1 benchmarks with a simplified architecture and low inference latency, making it accessible for research on a single consumer-grade GPU.
 
 **Code Coming Soon**
-We are currently preparing the code for release. The full implementation — including model architecture, training scripts, and evaluation scripts for Argoverse 2 and Argoverse 1 — will be uploaded here shortly. Stay tuned by starring or watching this repository for updates.
+We are currently preparing the code for release. The full implementation, including model architecture, training scripts, and evaluation scripts for Argoverse 2 and Argoverse 1 will be uploaded here shortly. Stay tuned by visiting or watching this repository for updates.
 
 **What will be released:**
 1) STAMP model architecture (STAMP-Single-Agent  and STAMP-Multiworld Trajectory Prediction variants)
