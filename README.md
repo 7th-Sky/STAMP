@@ -3,7 +3,7 @@ Official repository of "STAMP: Efficient Scene Token Attention for Real-Time Mot
 
 
 **STAMP: Efficient Scene Token Attention for Real-Time Motion Prediction**
-This is the official repository for STAMP, a unified transformer-based trajectory prediction model for autonomous driving, submitted to NeurIPS 2025.
+This is the official repository for STAMP, a unified transformer-based trajectory prediction model for autonomous driving, submitted to NeurIPS 2026.
 STAMP achieves competitive performance on the Argoverse 2 and Argoverse 1 benchmarks with a simplified architecture and low inference latency, making it accessible for research on a single consumer-grade GPU.
 
 **Code Coming Soon**
